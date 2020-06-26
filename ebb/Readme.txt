@@ -3,7 +3,7 @@
 # Date: 26.06.2020
 
 
-Ecoblackboxverzeichnis enthält folgende Elemente:
+ebb enthält folgende Elemente:
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 	- dataholder.sh: Agent, der für das Abholen der meteorologischen Daten zuständig ist.
