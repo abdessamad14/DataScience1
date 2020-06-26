@@ -1,9 +1,4 @@
-# Author: Abdessamad Abba, Goethe-Universitaet Frankfurt am Main, FB 12 - Informatik und Mathematik
-# Mail: s4295146@stud.uni-frankfurt.de
-# Matrikelnummer: 5776119
-# Purpose: Abruf von enddata_labeled.csv als Input.Er trainiert un test das MLP und liefert qualitativen Regeln sowie Modellen aus. 
-# Agent: Dataanalyser
-# Date: 15.05.2019
+
 
 from sklearn.neural_network import MLPClassifier
 from sklearn.neural_network import MLPRegressor
