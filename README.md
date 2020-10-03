@@ -1,8 +1,7 @@
-# DataScience1
+# Ecoblackbox
 
 
-# Author: Abdessamad Abba, Abdelkhalek Kamkoum, Adil Ennaciri, Goethe-Universitaet Frankfurt am Main, FB 12 - Informatik und Mathematik
-# Matrikelnummer: 5776119, 6331906, 6324191
+# Author: Abdessamad Abba Goethe-Universitaet Frankfurt am Main, FB 12 - Informatik und Mathematik
 # Date: 26.06.2020
 
 
